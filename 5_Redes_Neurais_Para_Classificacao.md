@@ -4,7 +4,7 @@
 - Neurônio aritifial: Entradas, pesos, função soma e função de ativação
 ## Função soma, ativação e ajuste de pesos
 - Função soma: Somatório de (entradas * pesos)
-- Função de ativação (step): Se maior ou igual a 1 retorna 1, senão, retorna 0
+- Função de ativação (step): retorna 0 ou 1
 - Ajuste de pesos: peso(n+1) = peso(n) + (taxaAprendizagem * entrada * erro)
 - Intuição de uma rede neural para operador AND (uma camada)
 - Função Sigmoid: y = 1 / (1 + e^(-x))
@@ -20,8 +20,8 @@
 - DeltaCamadaEscondida = DerivadaSigmoide * peso * DeltaSaída
 
 ## Ajustes dos pesos com backpropagation
-- peso (n+1) = (peso(n) * momento) + (entrada * delta * taxa de aprendizagem)
-- variável 'momento' é utilizada para acelerar o processo
+- Peso(n+1) = (peso(n) * momento) + (entrada * delta * taxa de aprendizagem)
+- Vvariável 'momento' é utilizada para acelerar o processo
 
 ## Redes neurais usando todos os pixels das imagens
 -
