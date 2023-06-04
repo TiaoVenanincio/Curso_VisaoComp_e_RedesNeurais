@@ -20,8 +20,8 @@
 - DeltaCamadaEscondida = DerivadaSigmoide * peso * DeltaSaída
 
 ## Ajustes dos pesos com backpropagation
-- peso (n+1) = (peso(n) * momento) + (entrada * delta * taxa de aprendizagem)
-- variável 'momento' é utilizada para acelerar o processo
+- Peso(n+1) = (peso(n) * momento) + (entrada * delta * taxa de aprendizagem)
+- Vvariável 'momento' é utilizada para acelerar o processo
 
 ## Redes neurais usando todos os pixels das imagens
 -
