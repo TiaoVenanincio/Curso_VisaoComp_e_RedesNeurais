@@ -1,6 +1,6 @@
 # Seção 3 - Reconhecimento Facial
 
-##Estão sendo apresentados métodos de reconhecimento facial:
+## Estão sendo apresentados métodos de reconhecimento facial:
 ###    - Algoritmo LBPH - Local Binary Pattern Histogram
         - Parâmetros:
             Raio, vizinhos, grade X e Y
