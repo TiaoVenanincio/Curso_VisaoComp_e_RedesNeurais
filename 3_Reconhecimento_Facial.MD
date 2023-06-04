@@ -1,13 +1,13 @@
-# Seção 3
+# Seção 3 - Reconhecimento Facial
 
-Estão sendo apresentados métodos de reconhecimento facial:
-    - Algoritmo LBPH - Local Binary Pattern Histogram
+##Estão sendo apresentados métodos de reconhecimento facial:
+###    - Algoritmo LBPH - Local Binary Pattern Histogram
         - Parâmetros:
             Raio, vizinhos, grade X e Y
         - Cria um histograma para cada local analisado
         - Depois, gera um histograma geral concatenando os locais
 
-    - Dlib 
+###    - Dlib 
         - Detecção de pontos faciais (dlib.shape_predictor)
         - Descritores faciais (utilizando resnet - rede neural convolucional para reconhecimento de imagens)
         - Calculo da distância entre as faces
