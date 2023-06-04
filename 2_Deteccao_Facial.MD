@@ -1,4 +1,4 @@
-# Seção 2
+# Seção 2 - Detecção Facial
 
 ## Foram apresentados conceitos básicos sobre detecção
     - Manipulação de imagem com Opencv
