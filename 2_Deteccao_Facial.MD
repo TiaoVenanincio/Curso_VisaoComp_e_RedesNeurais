@@ -1,7 +1,6 @@
 # Seção 2
 
-Foram apresentados conceitos básicos sobre detecção
-Pontos abordados:
+## Foram apresentados conceitos básicos sobre detecção
     - Manipulação de imagem com Opencv
     - Detecção de faces, olhos e outros objetos utilizando Cascades
     - Detecção de faces com Histograms of Oriented Gradients (HOG)
