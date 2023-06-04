@@ -1,3 +1,3 @@
-# Seção 1
+# Seção 1 - Introdução
 
-Nesta seção teve apenas boas vindas e links para conteúdos extas
+Na introdução, foi feita uma breve apresentação sobre o curso, como também foram mostrados links para conteúdos extras
