@@ -7,8 +7,11 @@ Estão sendo apresentados métodos de reconhecimento facial:
         - Cria um histograma para cada local analisado
         - Depois, gera um histograma geral concatenando os locais
 
-    - Detecção de pontos faciais (dlib.shape_predictor)
-    - Descritores faciais (utilizando resnet - rede neural convolucional para reconhecimento de imagens)
+    - Dlib 
+        - Detecção de pontos faciais (dlib.shape_predictor)
+        - Descritores faciais (utilizando resnet - rede neural convolucional para reconhecimento de imagens)
+        - Calculo da distância entre as faces
+            - Verifica a similaridade, quanto mais prox. de 0, mais parecido
 
 
 
