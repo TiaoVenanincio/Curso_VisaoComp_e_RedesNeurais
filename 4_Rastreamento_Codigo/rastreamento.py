@@ -1,4 +1,5 @@
 import cv2
+import time
 
 #rastreador = cv2.TrackerKCF_create()
 rastreador = cv2.TrackerCSRT_create()
@@ -11,7 +12,7 @@ bbox = cv2.selectROI("Selecione a area",frame) #roi - Regiao de interesse
 
 ok = rastreador.init(frame, bbox)
 #print(ok)
-
+t_inicio = time.time()
 while True:
     ok, frame = video.read()
     if not ok:
@@ -28,3 +29,5 @@ while True:
     cv2.imshow("Rastreamento", frame)
     if cv2.waitKey(5) & 0XFF == 27:  #encerra se pressionar esc
         break
+t_fim = time.time()
+print(t_fim - t_inicio)
