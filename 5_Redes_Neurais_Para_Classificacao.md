@@ -32,13 +32,13 @@
 - Evita que ocorra o mesmo resultado na saída com base na entrada. Adiciona um neurônio na entrada e uma unidade para a camada de saída.
 
 ## Redes neurais usando todos os pixels das imagens
--
+- Prática feita no Google Colab abaixo
 
 ## Extração de caracteristicas com o OpenCV
--
+- Prática feita no Google Colab abaixo
 
 ## Redes neurais usando as caracteristicas das imagens
--
+- Prática feita no Google Colab abaixo
 
 
 Link para o Colab: https://colab.research.google.com/drive/1VeuEQldsatm9kogGzlE_lcha6IgnOhMl?usp=sharing
