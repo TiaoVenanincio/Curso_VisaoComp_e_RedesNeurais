@@ -8,4 +8,4 @@
 - HOG + Dlib / CNN + Dlib
 
 
-Link colab: https://colab.research.google.com/drive/1c0VzLgq5MGpPlfbpzqhH_Qk4bRGbHv-F#scrollTo=ep-rb-E3uyVB
+Link colab: https://colab.research.google.com/drive/1c0VzLgq5MGpPlfbpzqhH_Qk4bRGbHv-F?usp=sharing

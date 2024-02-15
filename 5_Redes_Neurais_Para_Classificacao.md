@@ -32,12 +32,16 @@
 - Evita que ocorra o mesmo resultado na saída com base na entrada. Adiciona um neurônio na entrada e uma unidade para a camada de saída.
 
 ## Redes neurais usando todos os pixels das imagens
+- Possui muitas entradas, lenta
 - Prática feita no Google Colab abaixo
 
 ## Extração de caracteristicas com o OpenCV
+- Pega características importantes, diferenciadoras
 - Prática feita no Google Colab abaixo
 
 ## Redes neurais usando as caracteristicas das imagens
+- Utiliza as características extraídas
+- Logo possui menos entradas, sendo mais rápida
 - Prática feita no Google Colab abaixo
 
 
