@@ -24,4 +24,6 @@
 - Pega o mapa de características após o pooling e o transforma em um vetor
 - Aplica esse vetor na rede neural densa e segue-se o fluxo de uma rede neural
 
+## Link para o colab:
+
 Link para o Colab: https://colab.research.google.com/drive/17zjXtUgRJ8bdshU1Kb-REO8-c-WdLJOj?usp=sharing
